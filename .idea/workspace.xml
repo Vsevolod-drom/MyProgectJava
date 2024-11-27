@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98f186eb-efcc-4ca0-94fa-fea618ef19b2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Calculate/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculate/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculate/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculate/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculate/FourHors/4HorseJava/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculate/FourHors/4HorseJava/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculate/FourHors/4HorseJava/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculate/FourHors/4HorseJava/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculate/FourHors/4HorseJava/4HorseJava.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculate/FourHors/4HorseJava/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculate/MyProgectJava.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Vsevolod-drom/MyProgectJava.git",
+    "accountId": "f48ca931-49d9-4678-afac-3a1b23c19a61"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2pR4h4mrIpMRDrfgRMBN5smPErS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98f186eb-efcc-4ca0-94fa-fea618ef19b2" name="Changes" comment="" />
+      <created>1732715671186</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732715671186</updated>
+    </task>
+    <servers />
+  </component>
+</project>
