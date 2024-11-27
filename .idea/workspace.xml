@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="98f186eb-efcc-4ca0-94fa-fea618ef19b2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Calculate/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculate/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculate/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculate/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculate/FourHors/4HorseJava/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculate/FourHors/4HorseJava/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculate/FourHors/4HorseJava/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculate/FourHors/4HorseJava/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculate/FourHors/4HorseJava/4HorseJava.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculate/FourHors/4HorseJava/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculate/MyProgectJava.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +15,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Vsevolod-drom"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Vsevolod-drom/MyProgectJava.git",
@@ -45,6 +44,11 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JavaProject\MyProgectJava\Calculate" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
